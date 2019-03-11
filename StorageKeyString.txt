@@ -1,0 +1,2 @@
+spark.hadoop.fs.azure.account.key.<storage blob name>.blob.core.windows.net <storage key>
+
